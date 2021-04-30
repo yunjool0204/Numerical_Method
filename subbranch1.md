@@ -6,3 +6,5 @@ Practice creating a subbranch
 
 # Conclusion - Successful merge and dealt with a conflict between two subbranches.
 # Ready to merged commit.
+
+# after resolving a conflict, merged the change back to master
